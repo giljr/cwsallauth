@@ -5,6 +5,7 @@
 ```
 
 This is all about AllAuth! 
+
 Django-allauth provides 
 a comprehensive set of tools 
 to handle user authentication and registration 
