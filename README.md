@@ -26,7 +26,7 @@ in Django, obviouslly 🤪️
 
 ```
 
-Based: Based: Code With Stein [video Tutorial](https://youtu.be/RyB_wdEZhOw)
+Based: Code With Stein [video Tutorial](https://youtu.be/RyB_wdEZhOw)
 
 
 This is powered by [Django](https://www.djangoproject.com/) , a web framework for perfectionists with deadlines!
