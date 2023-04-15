@@ -1,4 +1,4 @@
-# cwsallauth - Django Working Code
+# [cwsallauth](https://medium.com/jungletronics/all-auth-with-django-allauth-5f7451db652b) - Django Working Code
 
 # How Django All-Auth Works - Stand-alone Project 
 
