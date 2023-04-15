@@ -45,6 +45,8 @@ It’s free and open source.
 ```
 You're more then welcome to visit my Web Pages:
 
+👉️ All-Auth with Django-Allauth - Django AllAuth Tutorial [#PureDjango — Episode #01](https://medium.com/jungletronics/all-auth-with-django-allauth-5f7451db652b)
+
 [Jungletronics](https://medium.com/jungletronics) (Arduino, RPi, PIC, Eagle, Blender, Unity3D, Pixy, and more)
 [KidsTronics](https://medium.com/kidstronics) (MIT App Inventor, LEGO, Arduino For Kids, and more)
 
